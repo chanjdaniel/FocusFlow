@@ -2,9 +2,8 @@
 ### nwPlus HackCamp 2023 project
 
 ## **Project Description:**
-With accessebility, diversity and inclusivity in mind. We thought of creating a chrome extention for debatably the most used browser out there. 
-This extension is aimed at helping users with ADHD to better focus when reading webpages. By creating an overlay, using bionic font and the ability to highlight lines,
-it allows users to beter focus on whatever webpage they are reading.
+With accessibility, diversity and inclusivity in mind, we thought of creating a chrome extension to improve readability of online text. 
+This extension is aimed at helping users with ADHD to better focus when reading webpages. Our chrome extension first creates an overlay containing only relevant text to block out distracting ads and page elements. Then, the text is modified to facilitate the bionic reading method which reduces the mental strain of reading long articles.
 
 This is a front project that was made using Chrome API, Webkit tools, JS, HTML & CSS.
 
